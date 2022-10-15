@@ -1,0 +1,3 @@
+C:\Users\mmorera\source\repos\Examen\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\mmorera\source\repos\Examen\Examen\obj\Debug\Examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmorera\source\repos\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
